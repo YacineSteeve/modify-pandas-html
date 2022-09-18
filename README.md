@@ -5,7 +5,7 @@ by a new group of text with a 1 between each element of the string.
 
 ## Configuration and run
 
-Preferably, configure a ![VirtualEnv](https://docs.python.org/3/tutorial/venv.html) for this.
+Preferably, configure a [VirtualEnv](https://docs.python.org/3/tutorial/venv.html) for this.
 
 1. Clone the repository:
 
@@ -28,5 +28,5 @@ Preferably, configure a ![VirtualEnv](https://docs.python.org/3/tutorial/venv.ht
 
 ## Dependencies
 
-* ![BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/)
-* ![tqdm](https://tqdm.github.io/)
+* [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/)
+* [tqdm](https://tqdm.github.io/)
